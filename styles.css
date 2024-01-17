@@ -183,6 +183,66 @@ select{
     border: none;
 }
 
+.chs-des{
+    text-align: center;
+}
+
+.p4{
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.p5{
+    margin-top: 40px;
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.imgs{
+    margin-top: 50px;
+}
+
+.img-cont1 div{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.img-cont2 div{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+.img-cont3 div{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Responsive Part */
 
