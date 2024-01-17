@@ -232,7 +232,23 @@ select{
 }
 
 
+.p8{
+    color: #131318;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
 
+.p9{
+    color: rgba(19, 19, 24, 0.70);
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
 
 
 
