@@ -97,7 +97,6 @@ nav li a{
 
 .srch-bar{
     position: absolute;
-    /* border: 2px solid red; */
     background-color: rgba(255, 255, 255, 0.377);
     height: 80px;
     width: 900px;
@@ -144,9 +143,45 @@ select{
     color: white;
     background-color: #FF5400;
     text-align: center;
-    /* margin-top: 8px; */
 }
 
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    padding-left: 135px;
+    padding-right: 135px;
+}
+
+.p1{
+    color: #131318;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.p2, .p3{
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 18px;
+}
+
+.sec2-ol{
+    list-style: inherit;
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 18px;
+}
+
+.btn1{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    border: none;
+}
 
 
 /* Responsive Part */
